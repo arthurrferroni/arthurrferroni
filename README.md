@@ -2,6 +2,9 @@
 ------>
 
   <p align="center">
+    <a href="https://www.python.org/">
+      <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/>
+   </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
@@ -59,7 +62,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=arthurrferroni&repo=LuanderFarias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=arthurrferroni&repo=Salvar-Notas-PMV&theme=tokyonight">
     </img>
   </a>
 </p>
@@ -85,9 +88,5 @@
   </a>
   
 </p>
-<h5 align="center">Seu @arthurrferroni</h5>
+
 </details>
-<!---
-arthurrferroni/arthurrferroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
