@@ -1,5 +1,5 @@
-<!-----[![banner](./banner.png)](https://github.com/arthurrferoni)
------->
+
+
 
   <p align="center">
     <a href="https://www.python.org/">
