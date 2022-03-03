@@ -40,14 +40,14 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=arthurrferroni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/arthurrferroni">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrferroni&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
@@ -57,7 +57,7 @@
   <a href="https://github.com/arthurrferroni">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=arthurrferroni&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
 </a>
@@ -70,7 +70,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=LuanderFarias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=arthurrferroni&repo=LuanderFarias&theme=tokyonight">
     </img>
   </a>
 </p>
