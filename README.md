@@ -1,4 +1,5 @@
-[![banner](./banner.png)](https://github.com/arthurrferoni)
+<!-----[![banner](./banner.png)](https://github.com/arthurrferoni)
+------>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -15,7 +16,7 @@
    </a>
    <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
- 
+  </a>
 </p>
 
 <h4 align="center">
