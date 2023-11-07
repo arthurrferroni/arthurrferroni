@@ -76,9 +76,15 @@
 
 <p align="center">
     
-  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrferroni&show_icons=true&locale=en&layout=compact" alt="arthurrferroni" /></div>
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrferroni&show_icons=true&locale=en&layout=compact" alt="arthurrferroni" />
+  </div>
 
-  <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrferroni&show_icons=true&locale=en" alt="arthurrferroni" /></div>
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrferroni&show_icons=true&locale=en" alt="arthurrferroni" />
+  </div>
 
-  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrferroni&" alt="arthurrferroni" /></div>
+  <div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrferroni&" alt="arthurrferroni" />
+  </div>
 </p>
