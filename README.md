@@ -76,9 +76,9 @@
 
 <p align="center">
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrferroni&show_icons=true&locale=en&layout=compact" alt="arthurrferroni" /></p>
+  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrferroni&show_icons=true&locale=en&layout=compact" alt="arthurrferroni" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrferroni&show_icons=true&locale=en" alt="arthurrferroni" /></p>
+  <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrferroni&show_icons=true&locale=en" alt="arthurrferroni" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrferroni&" alt="arthurrferroni" /></p>
-
+  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrferroni&" alt="arthurrferroni" /></div>
+</p>
