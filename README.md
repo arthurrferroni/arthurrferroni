@@ -72,13 +72,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-  </a>
 </p>
 
-<p>
-  <p>
+<p align="center">
+    
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrferroni&show_icons=true&locale=en&layout=compact" alt="arthurrferroni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrferroni&show_icons=true&locale=en" alt="arthurrferroni" /></p>
