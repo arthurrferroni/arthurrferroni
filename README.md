@@ -5,17 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthurrferroni" alt="arthurrferroni" /></a> </p>
 
-- 🔭 I’m currently working on [Salvar Notas PMV](https://github.com/arthurrferroni/Salvar-Notas-PMV)
+- 🔭 I’m currently working on [Chat](https://approachti.com.br/chat)
 
-- 🌱 I’m currently learning **Python Libraries**
+- 🌱 Atualmente desenvolvendo sistemas, automações e apps Web.
 
-- 👨‍💻 All of my projects are available at [https://arthurferroni.com/projects](https://arthurferroni.com/projects)
-
-- 📝 I regularly write articles on [https://arthurferroni.com/blog](https://arthurferroni.com/blog)
-
-- 💬 Ask me about **Front-End,Back-End e Python**
-
-- 📫 How to reach me **arthur@arthurferroni.com**
+- 👨‍💻 Some of my projects are avaible at this github.
 
 - 📄 Know about my experiences [https://arthurferroni.com](https://arthurferroni.com)
 
