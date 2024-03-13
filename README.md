@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are avaible at this github.
 
-- 📄 Know about my experiences [https://arthurferroni.com](https://arthurferroni.com)
+- 📄 Know about my experiences [Arthur Ferroni](https://approachti.com.br/arthurferroni)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
