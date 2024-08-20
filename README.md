@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chat](https://approachti.com.br/chat)
 
-- 🌱 Atualmente desenvolvendo automações e serviços web.
+- 🌱 Currently developing automations and web services.
 
 - 👨‍💻 Some of my projects are avaible at this github.
 
