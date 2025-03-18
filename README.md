@@ -59,7 +59,7 @@
   </div>
 <p align="center">
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrferroni&theme=dark" alt="arthurrferroni" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-self-seven.vercel.app?user=arthurrferroni&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </div>
 </p>
 
