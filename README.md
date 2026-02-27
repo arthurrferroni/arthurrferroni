@@ -59,7 +59,7 @@
   </div>
 <p align="center">
   <div align="center">
-    <img src="https://github-readme-streak-stats-self-seven.vercel.app?user=arthurrferroni&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=arthurrferroni&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </div>
 </p>
 
